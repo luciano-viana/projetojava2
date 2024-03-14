@@ -6,6 +6,7 @@ public class SegundaClasseJava {
 		
 		/*Segunda Classe Java teste*/
 		System.out.println("Segunda Classe Java!!");
+		/*Teste comentario*/
 	}
 
 }
